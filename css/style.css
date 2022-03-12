@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #B78D65;
+    --primary: #F4BD00;
     --light: #F8F8F8;
-    --dark: #252525;
+    --dark: #5E349A;
 }
 
 h1,
@@ -91,7 +91,7 @@ h6,
 
 .btn-outline-body {
     color: var(--primary);
-    border-color: #777777;
+    border-color: #fff;
 }
 
 .btn-outline-body:hover {
@@ -513,7 +513,7 @@ h6,
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: #777777;
+    color: #fff;
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
@@ -535,7 +535,7 @@ h6,
 }
 
 .footer .form-control {
-    border-color: #777777;
+    border-color: #fff;
 }
 
 .footer .copyright {
